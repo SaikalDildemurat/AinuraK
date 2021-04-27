@@ -1,2 +1,2 @@
 # ainuraK
-Landing page for logistic company in Kyrgyzstan
+A landing page for logistic company in Kyrgyzstan
