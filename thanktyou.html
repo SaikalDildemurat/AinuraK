@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>AinuraK</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" href="img/AinuraK-0.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <section id="main">
+      <div class="container">
+                                        <!----------MAIN----------> 
+        <div class="logo">
+          <img src="img/logo.png" alt="logo">
+        </div>     
+        <div id="menu" class="row">
+          <div class="col-sm-2 col-md-2 nav onas text-center">
+
+          </div>
+          <div class="col-sm-2 col-md-2 nav nuslugi text-center">
+
+          </div>
+          <div class="col-sm-3 col-md-3 main-logo text-center">
+            <img src="img/logo.png" alt="logo"> 
+          </div> 
+          <div class="col-sm-2 col-md-2 nav text-center">
+ 
+          </div>
+          <div class="col-sm-2 col-md-2 nav text-center">
+
+          </div>
+        </div>
+
+      <div class="row header text-center">
+        <div class="col-sm-12 col-md-12 h1-name">
+          <h1>Ainurak</h1>
+          <hr align="center">
+          <h3>COMPANY</h3>
+          <hr align="center">
+        </div>
+      </div>
+                                        <!----------TUMBNAIL LABEL---------->
+      <div id="glavnaya" class="row tumbnail">
+        <h2 class="text-center" style="letter-spacing: 10px;">Спасибо!</h2>  
+        <br>
+        <div class="col-md-12 tumbnail-p">
+          <p class="text-center">
+            Мы с вами свяжемся в ближайшее время.
+          </p>
+            <br>
+
+            </div>
+        </div>  
+      </div>
+
+                                
+                                  <!-----KONTAKTY---->
+      <div id="kontakty" class="row contacts-h2">
+        <h2 class="text-center">Контакты</h2>
+      </div>
+      <div class="row main-form">
+            <div class="col-md-12 text-center">
+              <p>Адрес: БЦ "Корона", ул. Правды 47, Бишкек, <br> Киргистан
+                 <br>
+                 Почта: ainurak@gmail.com
+                 <br>
+                 Телефон: +96052343223
+                 <br> 
+                 Свяжитесь с нами:</p>
+              <br>
+            </div>
+          </div>
+          <div class="social-img text-center" style="padding-left: 0rem;">
+            <a href="https://www.facebook.com/Ainura2015/?ref=bookmarks" target="_blank"><img src="img/contact-fb.png" alt="facebook"></a>
+            <a href="https://www.linkedin.com/in/ainura-kydyralieva-a44a6650/" target="_blank"><img src="img/contact-linked.png" alt="linkedin"></a>
+            <a href="mailto:kydyralievaainura@gmail.com" target="_blank"><img src="img/contact-mail.png" alt="email"></a>
+            <a href="https://www.instagram.com/ainurak_boutique/" target="_blank"><img src="img/contact-inst.png" alt="insta"></a>
+          </div>
+          <div class="row ainurak text-center">
+           <a href="https://www.instagram.com/ainurak_boutique/" target="_blank" style="padding-right: 8rem;"><img src="img/ainurak.png" alt="ainurak"></a>
+          </div>
+      </div>
+      <div class="row podval">
+        <div class="col-md-12 col-sm-12 text-center">
+          <p>Copyright. All rights recerved. Created by <a href="http://www.flexiblews.com/">Flexible Web</a></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+                                                  <!-------FONTS------>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500" rel="stylesheet"> <!----CALIBRI, TAHOMA---->
+    <link href="https://fonts.googleapis.com/css?family=Alegreya:400,500" rel="stylesheet"> <!---- TIMES NEW ROMAN---->
+    <link href="https://fonts.googleapis.com/css?family=Philosopher:400,700" rel="stylesheet">
+    <script>
+      $(document).ready(function(){
+    $("#menu").on("click","a", function (event) {
+        event.preventDefault();
+        var id  = $(this).attr('href'),
+            top = $(id).offset().top;        
+        $('body,html').animate({scrollTop: top}, 1500);
+    });
+15
+});
+
+    </script>
+  </body>
+</html>
