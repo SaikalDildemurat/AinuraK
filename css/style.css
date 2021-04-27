@@ -1,0 +1,549 @@
+section#main {
+	overflow-x: hidden;
+}
+section#main {
+	height: ;
+	background: url(../img/main-bg.jpg); 
+}
+#menu {
+	margin-top: 2%;
+}
+.nav {
+	height: 160px;	
+	display: inline; position: relative; top: 8rem;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 2rem;
+	font-weight: 400;
+	text-transform: uppercase;
+}
+.nav a {
+	padding-left: 5rem;
+	color: #3a393a;
+} 
+.onas {
+	text-align: right;
+}
+.nuslugi {
+	text-align: right;
+}
+.main-logo img {
+	width: 28rem;
+	padding-left: 7rem;
+}
+.header {
+	margin-top: 0%;
+	font-family: 'Alegreya';
+	font-weight: 400;
+}
+h1 {
+	font-size: 4rem;
+	letter-spacing: 30px;
+	color: #d786e1;
+	padding-left: 2rem;
+}
+.header h3 {
+	letter-spacing: 30px;
+	font-size: 2.2rem;
+	font-family: 'Philosopher', sans-serif;
+	padding-left: 2rem;
+}
+hr {
+	width: 32rem;
+	border-top: 1.2px solid #000000;
+	padding-left: 
+}
+.main-p {
+	margin-top: 3%;
+}
+.main-p p {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.2rem;
+	text-transform: uppercase;
+}
+section#main h2 {
+	letter-spacing: 20px;
+	color: #d786e1;
+	font-family: 'Roboto';
+}
+.tumbnail {
+	margin-top: 2%;
+	font-family: 'Philosopher', sans-serif;
+}
+.tumbnail-p p {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.7rem;
+}
+.tumbnail-p li {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.7rem;
+}
+.tumbnail-text {
+	margin-top: 3%; 
+}
+.tumbnail-text h3 {
+	text-transform: uppercase;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.6rem;
+	font-weight: 500;
+}
+.tumbnail-text p {
+	font-size: 1.4rem;
+}
+.about-img img {
+	width: 100%;
+}
+.ainurak {
+	margin-top: 2%;
+}
+.uslugi {
+	margin-top: 2%;
+}
+.uslugi img {
+	width: 13rem;
+}
+.uslugi-text {
+	margin-top: 3%;
+	font-family: 'Philosopher', sans-serif;
+}
+.uslugi p {
+	font-size: 1.7rem;
+	font-family: 'Philosopher', sans-serif;
+}
+.uslugi ul {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.7rem;
+}
+.uslugi h4 {
+	text-transform: uppercase;
+	font-family: 'Philosopher', sans-serif;
+	font-weight: 700;
+	font-size: 1.95rem;
+	color: #4c4b4c;
+}
+.showroom {
+	text-transform: uppercase;
+	line-height: 3rem;
+}
+.sferi {
+	line-height: 2.5rem;
+}
+#parnery {
+	margin-top: 4%;
+}
+.partners {
+	margin-top: 2%;
+	font-family: 'Philosopher', sans-serif;
+}
+.left img {
+	margin-top: -10%;
+	padding-left: 10rem;
+}
+.right img {
+	margin-top: -10%;
+	padding-right: 10rem;
+}
+.partners-p {
+	margin-top: 1%;
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.7rem;
+	text-transform: uppercase;
+}
+.pp {
+	margin-top: 1%;
+}
+.pp-img {
+	margin-top: 2%;
+}
+.contacts-h2 {
+	margin-top: 2%;
+}
+.contact-form {
+    margin-bottom: 50px;
+}
+.main-form {
+	margin-top: 3%;
+}
+.input-field {
+    margin-bottom: 10px;
+}
+
+.form-control {
+	font-family: 'Philosopher', sans-serif;
+    border: 1px solid #ececec;
+    border-radius: 15px;
+    box-shadow: none;
+    background-color: #e0e0e0;
+    color: #686767;
+    font-size: 16px;
+    height: 35px;
+}
+
+textarea.form-control {
+    width: 100%;
+    height: 125px;
+}
+
+#submit:hover {
+  color: #fff;
+}
+
+
+.contact-details h3 {
+    border-bottom: 1px solid #FF0000;
+    font-weight: 700;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    text-transform: uppercase;
+}
+
+.contact-details p {
+    line-height: 30px;
+}
+
+.contact-details p i {
+    margin-right: 10px;
+}
+
+.contact-details span {
+    display: block;
+    margin-left: 24px;
+}
+
+.btn {
+	font-family: 'Philosopher', sans-serif;
+    border-radius: 20px;
+    border: 0;
+    position: relative;
+    text-transform: uppercase;
+}
+
+.btn-blue {
+    background-color: #cf89d7;
+    box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
+    padding: 8px 25px;
+    color: #fff;
+}
+
+.btn-border {
+    border: 2px solid #fff;
+    color: #fff;
+    padding: 12px 35px;
+}
+.social {
+	font-family: 'Philosopher', sans-serif;
+	font-size: 1.7rem;
+}
+.social p {
+	margin-left: 17%;
+}
+.social-img {
+	padding-left: 7.5rem;
+}
+.social img {
+	margin-left: 2%;
+}
+.ainurak img {
+	width: 25rem;
+	margin-left: 8rem;
+}
+.podval p {
+	margin-top: 2%;
+	font-family: 'Philosopher', sans-serif;
+}
+
+						/*-----------MOBILE----------*/
+
+@media(min-width: 0px) and (max-width: 320px) {
+	section#main {
+		height: 100%;
+	}
+	.logo {
+		margin-top: 5%;
+	}
+	.logo img {
+		margin-left: 4rem;
+		width: 70%
+	}
+	.nav {
+		font-size: 1.7rem;
+		text-align: center;
+		height: 160px;	
+		display: inline; position: relative; top: 0rem;
+	}
+	.nav a {
+		margin-left: 5rem;
+	}
+	.main-logo {
+		display: none;
+	}
+	.main-logo img {
+		visibility: hidden;
+		width: 0px;
+	}
+	h1 {
+		font-size: 3.5rem;
+		letter-spacing: 20px;
+		padding-left: 1rem;
+	}
+	.header h3 {
+		letter-spacing: 20px;
+		font-size: 2rem;
+		padding-left: 2rem;
+	}
+	hr {
+		width: 26rem; 
+	}
+	section#main h2 {
+		padding-left: 1rem;
+		letter-spacing: 1.5rem;
+	}
+	.about-img {
+	text-align: center;
+	}
+	.about-img img {
+		width: 75%;
+	}
+	.tumbnail-text p {
+		text-align: center;
+	}
+	.uslugi h2 {
+		margin-top: 2%;
+	}
+	.uslugi-text {
+		margin-top: 8%;
+		text-align: center;
+	}
+	.pp2 {
+		margin-top: -20%;
+	}
+	.contacts-h2 {
+		margin-top: -5%;
+	}
+	.social {
+		text-align: center;
+	}
+	.social p {
+		margin-left: 0%;
+		margin-top: 5%;
+		font-family: 'Philosopher', sans-serif;
+	}
+	.social-img {
+		padding-left: 0rem;
+	}
+	.social img {
+		margin-left: 2%;
+	}
+	.ainurak img {
+		width: 25rem;
+		margin-left: 0rem;
+	}
+}
+@media(min-width: 321px) and (max-width: 480px) {
+	section#main {
+		height: 100%;
+	}
+	.logo {
+		margin-top: 5%;
+	}
+	.logo img {
+		margin-left: 27%;
+		width: 60%
+	}
+	.nav {
+		font-size: 1.7rem;
+		text-align: center;
+		height: 160px;	
+		display: inline; position: relative; top: 0rem;
+	}
+	.nav a {
+		margin-left: 25%;
+	}
+	.main-logo {
+		display: none;
+	}
+	.main-logo img {
+		visibility: hidden;
+		width: 0px;
+	}
+	h1 {
+		font-size: 3.5rem;
+		letter-spacing: 20px;
+		padding-left: 1rem;
+	}
+	.header h3 {
+		letter-spacing: 20px;
+		font-size: 2rem;
+		padding-left: 2rem;
+	}
+	hr {
+		width: 26rem; 
+	}
+	section#main h2 {
+		padding-left: 1rem;
+		letter-spacing: 1.5rem;
+	}
+	.about-img {
+		text-align: center;
+	}
+	.about-img img {
+		width: 75%;
+	}
+	.tumbnail-text p {
+		text-align: center;
+	}
+	.uslugi h2 {
+		margin-top: 2%;
+	}
+	.uslugi-text {
+		margin-top: 8%;
+		text-align: center;
+	}
+	.pp2 {
+		margin-top: -10%;
+	}
+	.contacts-h2 {
+		margin-top: -5%;
+		margin-right: 1rem;
+	}
+	.social {
+		text-align: center;
+	}
+	.social p {
+		margin-left: 0%;
+		margin-top: 5%;
+	}
+	.social-img {
+		padding-left: 0rem;
+	}
+	.social img {
+		margin-left: 2%;
+	}
+	.ainurak img {
+		width: 25rem;
+		margin-left: 0rem;
+	}	
+}	
+@media(min-width: 481px) and (max-width: 768px) {
+	section#main {
+		height: 100%;
+	}
+	.logo {
+		margin-top: 5%;
+	}
+	.logo img {
+		margin-left: 27%;
+		width: 50%
+	}
+	.nav {
+		font-size: 1.7rem;
+		text-align: center;
+		height: 160px;	
+		display: inline; position: relative; top: 0rem;
+	}
+	.nav a {
+		margin-left: 35%;
+	}
+	.main-logo {
+		display: none;
+	}
+	.main-logo img {
+		visibility: hidden;
+		width: 0px;
+	}
+	h1 {
+		font-size: 3.5rem;
+		letter-spacing: 20px;
+		padding-left: 1rem;
+	}
+	.header h3 {
+		letter-spacing: 20px;
+		font-size: 2rem;
+		padding-left: 2rem;
+	}
+	hr {
+		width: 26rem; 
+	}
+	section#main h2 {
+		padding-left: 1rem;
+		letter-spacing: 1.5rem;
+	}
+	.about-img {
+		text-align: center;
+	}
+	.about-img img {
+		width: 50%;
+	}
+	.tumbnail-p ul li {
+		text-align: center;
+	}
+	.tumbnail-text p {
+		text-align: center;
+	}
+	.uslugi h2 {
+		margin-top: 2%;
+	}
+	.uslugi-text {
+		margin-top: 8%;
+		text-align: center;
+	}
+	.pp2 {
+		margin-top: -5%;
+	}
+	.contacts-h2 {
+		margin-top: 0%;
+		margin-right: 1rem;
+	}
+	.social {
+		text-align: center;
+	}
+	.social p {
+		margin-left: 0%;
+		margin-top: 5%;
+	}
+	.social-img {
+		padding-left: 0rem;
+	}
+	.social img {
+		margin-left: 2%;
+	}
+	.ainurak img {
+		width: 25rem;
+		margin-left: 0rem;
+	}		
+}
+@media(min-width: 769px) and (max-width: 992px) {
+	section#main {
+		height: 100%;
+	}
+	.logo {
+		display: none;
+	}
+	.main-logo img {
+		width: 25rem;
+		margin-left: -5rem;
+	}
+	.about-img img {
+		width: 75%;
+	}
+	.pp2 {
+		padding-top: 10rem;
+	}
+}
+@media(min-width: 993px) {
+	.logo {
+		display: none;
+	}
+	.social p {
+	margin-left: 14%;
+	}
+	.social-img {
+		padding-left: 6.5rem;
+	}
+	.social img {
+		margin-left: 1.5%;
+	}
+	.ainurak img {
+		width: 25rem;
+		margin-left: 8rem;
+	}
+}
